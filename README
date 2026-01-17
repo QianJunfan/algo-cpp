@@ -1,3 +1,6 @@
+Activity log and heatmap provided by sc.py.
+
+
 LAST-30-WEEK ACTIVITY HEATMAP:
 
         Sun ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ▒
@@ -9,12 +12,11 @@ LAST-30-WEEK ACTIVITY HEATMAP:
         Sat ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ *
 
         Latest: 2026-01-18, ░:[0], ▒:(0,3], ▓:(3,8], █:(8,∞), *:Future
-
-
+        ---------------------------------------------------------------
 
 
 Jan 18, 2026:
-        codeforces 71a - way too long words
-        codeforces 71b - progress bar
-        codeforces 71c - round table knights
+        codeforces 71a - way too long words                            [71a.cpp]
+        codeforces 71b - progress bar                                  [71b.cpp]
+        codeforces 71c - round table knights                           [71c.cpp]
 

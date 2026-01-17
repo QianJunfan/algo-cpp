@@ -1,5 +1,5 @@
 #!/bin/bash
-
+git add .
 current_date=$(date +"%b %d, %Y")
 
 file_list=$(git status --porcelain | grep '^[AMDR]' | awk '{
@@ -22,7 +22,6 @@ commit_message="$current_date
 $file_list"
 
 python sc.py > README
-
 git commit -m "$commit_message"
 current_branch=$(git rev-parse --abbrev-ref HEAD)
 git push origin "$current_branch"
