@@ -1,5 +1,10 @@
 #!/bin/bash
 git add .
+
+cd failed
+python sc.py >README
+cd ..
+
 current_date=$(date +"%b %d, %Y")
 
 file_list=$(git status --porcelain | grep '^[AMDR]' | awk '{

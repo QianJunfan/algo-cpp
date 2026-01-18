@@ -1,4 +1,4 @@
-/* codeforces 2167e - khba loves to sleep! (failed)
+/* codeforces 2167e - khba loves to sleep!
  * Jan 18, 2026
  */
 #include <bits/stdc++.h>
