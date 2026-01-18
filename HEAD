@@ -1,4 +1,4 @@
-This repository contains my C++ solutions for Codeforces.
+This repository contains my C++ solutions for Codeforces & LeetCode.
 
 miniutils:
         sc.py: A tool for generating activity logs and heatmaps.
