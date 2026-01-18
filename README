@@ -1,4 +1,4 @@
-This repository contains my C++ solutions for Codeforces.
+This repository contains my C++ solutions for Codeforces & LeetCode.
 
 miniutils:
         sc.py: A tool for generating activity logs and heatmaps.
@@ -30,5 +30,6 @@ Jan 18, 2026:
         codeforces 1940c_2p - sum of cubes (2p)                   [1490c_2p.cpp]
         codeforces 71c      - round table knights                      [71c.cpp]
         codeforces 1490c    - sum of cubes                           [1490c.cpp]
+        codeforces 158a     - next round                              [158a.cpp]
         codeforces 1914c    - quests                                 [1914c.cpp]
 
